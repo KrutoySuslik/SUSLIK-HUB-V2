@@ -1,2 +1,14 @@
 print("SUSLIK HUB V2")
+--[
+By SLK ZET Tem, Krutoy Suslik, Krain1771.
+Discord: https://discord.gg/RGNBZkFH3d
+Telegram: https://t.me/KrutoySuslik
+SUSLIK HUV V2
+]--
 
+if game.PlaceId == 13924946576 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/main/Dingus",true))()
+else
+    game.Players.LocalPlayer:Kick("There is no script for this place! Go to the telegram channel and leave a comment with the game you want the script for.  (https://t.me/KrutoySuslik)")
+    setclipboard("https://t.me/KrutoySuslik")
+end
