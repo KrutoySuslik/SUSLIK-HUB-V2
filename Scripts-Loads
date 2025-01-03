@@ -20,7 +20,7 @@ elseif game.PlaceId == 1345139196 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/Treasure-Hunt-Simulator",true))()
 elseif game.PlaceId == 4639625707 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/War%20Tycoon",true))()
-elseif game.PlaceId == 8737899170 or 18901165922 or 6284583030 then
+if game.PlaceId == 8737899170 or game.PlaceId == 18901165922 or game.PlaceId == 6284583030 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KraSusZet/Pets-go/refs/heads/main/SLK-ZET",true))()
 elseif game.PlaceId == 000000000 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/",true))()
