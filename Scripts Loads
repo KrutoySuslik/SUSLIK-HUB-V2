@@ -1,1 +1,30 @@
--- yes
+--[[
+Dingus
+Evade
+Fisch
+Mining GO
+Treasure Hunt Simulator
+War Tycoon
+Pets Go, Pet Simulator 99, Pet Simulatr X
+]]--
+
+if game.PlaceId == 13924946576 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/Dingus",true))()
+elseif game.PlaceId == 9872472334 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/Evade",true))()
+elseif game.PlaceId == 16732694052 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/Fisch",true))()
+elseif game.PlaceId == 116434053579571 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/Mining-Go",true))()
+elseif game.PlaceId == 1345139196 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/Treasure-Hunt-Simulator",true))()
+elseif game.PlaceId == 4639625707 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/War%20Tycoon",true))()
+elseif game.PlaceId == 8737899170 or 18901165922 or 6284583030 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KraSusZet/Pets-go/refs/heads/main/SLK-ZET",true))()
+elseif game.PlaceId == 000000000 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/",true))()
+else 
+game.Players.LocalPlayer:Kick("SUSLIK HUB has no script for this game, if you need help contact support in our telegram channel (Link copied).")
+setclipboard("https://t.me/KrutoySuslik")
+end
