@@ -1,11 +1,15 @@
 --[[
-Dingus
-Evade
-Fisch
-Mining GO
-Treasure Hunt Simulator
-War Tycoon
-Pets Go, Pet Simulator 99, Pet Simulatr X
+Welcome to the SUSLIK HUB. 
+Here you will find scripts for games -
+Dingus.
+Evade.
+Fisch.
+Mining GO.
+Treasure Hunt Simulator.
+War Tycoon.
+Pets Go, Pet Simulator 99, Pet Simulatr X.
+
+Hub was created by Krutoy Suslik and Krain1771
 ]]--
 
 if game.PlaceId == 13924946576 then
