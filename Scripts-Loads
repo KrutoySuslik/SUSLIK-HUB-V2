@@ -29,6 +29,8 @@ elseif game.PlaceId == 8737899170 or game.PlaceId == 18901165922 or game.PlaceId
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KraSusZet/Pets-go/refs/heads/main/SLK-ZET", true))()
 elseif game.PlaceId == 000000000 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/", true))()
+elseif game.PlaceId == 18687417158 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KrutoySuslik/SUSLIK-HUB-V2/refs/heads/main/Forsaken")()
 else
     game.Players.LocalPlayer:Kick("SUSLIK HUB has no script for this game, if you need help contact support in our telegram channel (Link copied).")
     setclipboard("https://t.me/KrutoySuslik")
